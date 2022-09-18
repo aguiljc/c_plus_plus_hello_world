@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/chris",
+                "/Users/chris/VS Code/",
+                "/Users/chris/VS Code/c_plus_plus_hello_world/",
+                "/Users/chris/VS Code/c_plus_plus_hello_world/src"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**"
+                ]
+            },
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
